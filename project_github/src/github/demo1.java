@@ -6,6 +6,8 @@ public class demo1 {
 		System.out.println("hello");
 		System.out.println("from demo1");
 		System.out.println("demo 2 added");
+	System.out.println("gm");
+	System.out.println("gn");
 	}
 
 }
